@@ -2,7 +2,7 @@
 
 仅供个人学习，切勿传播商用！
 
-[R语言基础](https://cellomics-yu.github.io/SingleCellOmics_Lecture/R语言基础.htm)
+[R语言基础](https://cellomics-yu.github.io/SingleCellOmics_Lecture/R语言基础.pdf)
 
 [R语言-数据读取](https://cellomics-yu.github.io/SingleCellOmics_Lecture/read_data.html)
 
