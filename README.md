@@ -14,6 +14,8 @@
 
 [单细胞多组学之聚类分析](https://cellomics-yu.github.io/SingleCellOmics_Lecture/RNA-seq_clustering.html)
 
+[单细胞多组学之时序分析](https://cellomics-yu.github.io/SingleCellOmics_Lecture/时序分析——Monocle使用说明.pdf)
+
 [单细胞多组学之RNA数据整合分析](https://cellomics-yu.github.io/SingleCellOmics_Lecture/Integrative-single-cell-analysis.html)
 
 [单细胞多组学之CITEseq和RNAseq分析](https://cellomics-yu.github.io/SingleCellOmics_Lecture/CITEvsRNA.html)
